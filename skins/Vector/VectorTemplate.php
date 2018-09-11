@@ -221,7 +221,6 @@ class VectorTemplate extends BaseTemplate {
 						<li id="footer-<?php echo htmlspecialchars( $blockName ); ?>ico">
                             <a href="https://www.mrpresta.com/"><img src="/mediawiki/resources/assets/wiki.png" title="Mr Presta" width="88" height="31"></a>
 <!--							--><?php
-//                            echo "jose";
 //							foreach ( $footerIcons as $icon ) {
 //								echo $this->getSkin()->makeFooterIcon( $icon );
 //							}
